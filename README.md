@@ -5,10 +5,10 @@ In this project, we will query the Chinook Database. The Chinook Database holds 
 ![image](https://user-images.githubusercontent.com/101069443/158467507-b7649320-3792-48e9-a7c2-002c49dce090.png)
 # we will try to query databast to pull data to and bulid visuals to help the company see who they can improve thier business practices
 there are many insights we can expolre in that database like
-#1-Who is writing the rock music ?
+# 1-Who is writing the rock music ?
 # 2-Which artist has earned the most ?
-# 3- Which customer has spent the most for artist who earned the most ?
-# 4-   What is the most popular genre in each country ?
+# 3-Which customer has spent the most for artist who earned the most ?
+# 4-What is the most popular genre in each country ?
 
 
 
